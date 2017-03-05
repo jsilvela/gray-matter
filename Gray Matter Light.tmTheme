@@ -87,6 +87,17 @@ Selection highlight             : #C3E8F3 > #373737
     </dict>
     <dict>
         <key>name</key>
+        <string>Strings</string>
+        <key>scope</key>
+        <string>string</string>
+        <key>settings</key>
+        <dict>
+            <key>foreground</key>
+            <string>#66A968</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>Comments</string>
         <!-- IE this comment -->
         <key>scope</key>
